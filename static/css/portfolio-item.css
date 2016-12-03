@@ -1,0 +1,44 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	background-image: url("../img/bkg/bkg5.jpg");
+	background-position: center top;
+	background-repeat: repeat-y;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.p:hover{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.tablewiki {
+	padding-top: 5px;
+	padding-right: 10px;
+}
+
+.verticalLine {
+    border-right: 1px solid #eeeeee;
+}
+
+#playerbox {
+	background-color: #eeeeee;
+	padding-left: 10px;
+}
+
+#playername {
+	font-family: inherit;
+	font-weight: 500;
+	font-size: 16pt;
+	line-height: 1.1;
+	color: inherit;
+}
+
+.nonactive {
+}
